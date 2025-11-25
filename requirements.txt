@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pytest
+pylint
+black
+isort
+bandit
+pre-commit
